@@ -7,12 +7,15 @@ body {
 div {
   width: 700px;
   margin: auto;
-  font-family: 
+  font-family: "Helvetica Neue";
+  background-color: white;
+  padding: 30px;
 }
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  /* Your code here! */
+  font-size: 22px;
+  font-style: italic;
   color:red;
 }
 
